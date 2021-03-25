@@ -11,7 +11,7 @@ Steps to implement the code:
 
 AdaBoost is an iterative ensemble method. AdaBoost classifier builds a strong classifier by combining multiple poorly performing classifiers so that you will get high accuracy strong classifier. The basic concept behind Adaboost is to set the weights of classifiers and training the data sample in each iteration such that it ensures the accurate predictions of unusual observations. 
 
-Pros
+Pros: 
 AdaBoost is easy to implement. It iteratively corrects the mistakes of the weak classifier and improves accuracy by combining weak learners. 
-Cons
+Cons: 
 AdaBoost is sensitive to noise data. It is highly affected by outliers because it tries to fit each point perfectly. 
